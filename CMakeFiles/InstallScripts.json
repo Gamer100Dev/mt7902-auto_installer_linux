@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/gamer/mt7902-auto_installer_linux/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

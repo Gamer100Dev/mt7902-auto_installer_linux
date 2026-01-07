@@ -1,0 +1,1157 @@
+[   41.285917] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[120] SET[0] LEN[92]
+[   41.285918] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[120] to CMD Q
+[   41.285919] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[121] SET[0] LEN[76]
+[   41.285920] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[121] to CMD Q
+[   41.285921] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   42.330644] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[154] TX-Byte[0][0][0][0],RX-Byte[154][0][0][0]
+[   42.330652] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[140][0][0][0]
+[   42.330655] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[122] SET[1] LEN[376]
+[   42.330658] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[122] to CMD Q
+[   42.330660] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 1232 > [0][154] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   42.330665] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[123] SET[0] LEN[92]
+[   42.330667] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[123] to CMD Q
+[   42.330668] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[124] SET[0] LEN[76]
+[   42.330670] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[124] to CMD Q
+[   42.330671] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:6005, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   43.374714] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   43.374737] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[125] SET[0] LEN[92]
+[   43.374744] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[125] to CMD Q
+[   43.374749] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[126] SET[0] LEN[76]
+[   43.374753] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[126] to CMD Q
+[   43.374756] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   72.275843] [wlan][1171]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0xCB] SEQ[127] SET[1] LEN[100]
+[   72.275856] [wlan][1171]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0xCB] SEQ[127] to CMD Q
+[   72.275866] [wlan][1171]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] BE: T[000270] R[000000] T_D[000000] T_F[000000]
+[   72.275873] [wlan][1171]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] BK: T[000000] R[000000] T_D[000000] T_F[000000]
+[   72.275878] [wlan][1171]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] VI: T[000000] R[000000] T_D[000000] T_F[000000]
+[   72.275881] [wlan][1171]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] VO: T[000002] R[000000] T_D[000000] T_F[000000]
+[   72.275916] [wlan][1171]kalPerMonStart:(SW4 INFO) perf monitor started
+[   73.319424] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[1594] TX-Byte[62][0][0][0],RX-Byte[1532][0][0][0]
+[   73.319430] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[135][0][0][0]
+[   73.319433] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[128] SET[1] LEN[376]
+[   73.319434] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[128] to CMD Q
+[   73.319436] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   73.319440] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[129] SET[0] LEN[92]
+[   73.319441] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[129] to CMD Q
+[   73.319442] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[130] SET[0] LEN[76]
+[   73.319443] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[130] to CMD Q
+[   73.319444] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   74.343258] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[52] TX-Byte[0][0][0][0],RX-Byte[52][0][0][0]
+[   74.343407] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[136][0][0][0]
+[   74.343424] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[131] SET[1] LEN[376]
+[   74.343432] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[131] to CMD Q
+[   74.343442] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 416 > [0][52] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   74.343458] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[132] SET[0] LEN[92]
+[   74.343463] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[132] to CMD Q
+[   74.343467] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[133] SET[0] LEN[76]
+[   74.343471] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[133] to CMD Q
+[   74.343475] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   75.367050] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   75.367074] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[134] SET[0] LEN[92]
+[   75.367081] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[134] to CMD Q
+[   75.367086] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[135] SET[0] LEN[76]
+[   75.367090] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[135] to CMD Q
+[   75.367094] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   78.163155] [wlan][1012]qmHandleEventRxAddBa:(QM INFO) QM:Event +RxBa
+[   78.163174] [wlan][1012]qmAddRxBaEntry:(QM INFO) QM: +RxBA(STA=0 TID=3 WinStart=1 WinEnd=128 WinSize=128)
+[   85.117538] [wlan][0]kalArpFrameClassifier:(TX INFO) ARP RSP PKT[0x0000000000b02bf1] TAR MAC/IP[10:7c:**:**:**:20]/[192.***.***.1], SeqNo: 97
+[   85.117585] [wlan][0]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[   85.117596] [wlan][0]wlanGetSpeIdx:(INIT INFO) SpeIdx:0,D:0,G=0,B=2,Bss=0
+[   85.117630] [wlan][0]kalPerMonStart:(SW4 INFO) perf monitor started
+[   85.118788] [wlan][1012]wlanPktTxDone:(TX INFO) TX DONE, Type[ARP] Tag[0x07ecdb00] WIDX:PID[1:97] Status[0], SeqNo: 97
+[   86.181685] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[2426] TX-Byte[42][0][0][0],RX-Byte[2384][0][0][0]
+[   86.181708] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[136][0][0][0]
+[   86.181718] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[136] SET[1] LEN[376]
+[   86.181727] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[136] to CMD Q
+[   86.181735] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   86.181752] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[137] SET[0] LEN[92]
+[   86.181758] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[137] to CMD Q
+[   86.181763] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[138] SET[0] LEN[76]
+[   86.181768] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[138] to CMD Q
+[   86.181773] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[   87.205478] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[   87.205503] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[139] SET[0] LEN[92]
+[   87.205510] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[139] to CMD Q
+[   87.205516] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[140] SET[0] LEN[76]
+[   87.205519] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[140] to CMD Q
+[   87.205523] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  137.736277] [wlan][2534]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  137.740504] [wlan][2534]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  137.741332] [wlan][2394]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0xCB] SEQ[141] SET[1] LEN[100]
+[  137.741348] [wlan][2394]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0xCB] SEQ[141] to CMD Q
+[  137.741358] [wlan][2394]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] BE: T[000272] R[000000] T_D[000000] T_F[000000]
+[  137.741364] [wlan][2394]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] BK: T[000000] R[000000] T_D[000000] T_F[000000]
+[  137.741369] [wlan][2394]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] VI: T[000000] R[000000] T_D[000000] T_F[000000]
+[  137.741373] [wlan][2394]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] VO: T[000002] R[000000] T_D[000000] T_F[000000]
+[  137.741409] [wlan][2394]kalPerMonStart:(SW4 INFO) perf monitor started
+[  138.787023] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[15887] TX-Byte[476][0][0][0],RX-Byte[15411][0][0][0]
+[  138.787043] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[138][0][0][0]
+[  138.787053] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[142] SET[1] LEN[376]
+[  138.787060] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[142] to CMD Q
+[  138.787067] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  138.787083] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[143] SET[0] LEN[92]
+[  138.787088] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[143] to CMD Q
+[  138.787093] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[144] SET[0] LEN[76]
+[  138.787096] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[144] to CMD Q
+[  138.787100] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  139.810863] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[364] TX-Byte[207][0][0][0],RX-Byte[157][0][0][0]
+[  139.810882] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[139][0][0][0]
+[  139.810891] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[145] SET[1] LEN[376]
+[  139.810898] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[145] to CMD Q
+[  139.810906] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 2912 > [207][157] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  139.810921] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[146] SET[0] LEN[92]
+[  139.810925] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[146] to CMD Q
+[  139.810930] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[147] SET[0] LEN[76]
+[  139.810933] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[147] to CMD Q
+[  139.810937] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:6005, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  140.834819] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[441] TX-Byte[207][0][0][0],RX-Byte[234][0][0][0]
+[  140.834841] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[140][0][0][0]
+[  140.834850] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[148] SET[1] LEN[376]
+[  140.834858] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[148] to CMD Q
+[  140.834866] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 3528 > [207][234] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  140.834882] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[149] SET[0] LEN[92]
+[  140.834887] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[149] to CMD Q
+[  140.834891] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[150] SET[0] LEN[76]
+[  140.834895] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[150] to CMD Q
+[  140.834899] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  141.858924] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[52] TX-Byte[0][0][0][0],RX-Byte[52][0][0][0]
+[  141.858943] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[138][0][0][0]
+[  141.858952] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[151] SET[1] LEN[376]
+[  141.858960] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[151] to CMD Q
+[  141.858968] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 416 > [0][52] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  141.858982] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[152] SET[0] LEN[92]
+[  141.858987] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[152] to CMD Q
+[  141.858992] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[153] SET[0] LEN[76]
+[  141.858996] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[153] to CMD Q
+[  141.859000] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  142.882875] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[105] TX-Byte[0][0][0][0],RX-Byte[105][0][0][0]
+[  142.882898] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[137][0][0][0]
+[  142.882909] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[154] SET[1] LEN[376]
+[  142.882919] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[154] to CMD Q
+[  142.882928] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 840 > [0][105] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  142.882947] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[155] SET[0] LEN[92]
+[  142.882953] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[155] to CMD Q
+[  142.882960] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[156] SET[0] LEN[76]
+[  142.882965] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[156] to CMD Q
+[  142.882970] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  143.906990] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[157] TX-Byte[0][0][0][0],RX-Byte[157][0][0][0]
+[  143.907007] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[137][0][0][0]
+[  143.907016] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[157] SET[1] LEN[376]
+[  143.907023] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[157] to CMD Q
+[  143.907029] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 1256 > [0][157] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  143.907043] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[158] SET[0] LEN[92]
+[  143.907048] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[158] to CMD Q
+[  143.907052] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[159] SET[0] LEN[76]
+[  143.907056] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[159] to CMD Q
+[  143.907060] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:5671, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  144.931916] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[129] TX-Byte[0][0][0][0],RX-Byte[129][0][0][0]
+[  144.931929] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[136][0][0][0]
+[  144.931935] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[160] SET[1] LEN[376]
+[  144.931940] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[160] to CMD Q
+[  144.931945] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 1032 > [0][129] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  144.931955] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[161] SET[0] LEN[92]
+[  144.931959] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[161] to CMD Q
+[  144.931962] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[162] SET[0] LEN[76]
+[  144.931964] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[162] to CMD Q
+[  144.931967] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  145.954899] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[181] TX-Byte[0][0][0][0],RX-Byte[181][0][0][0]
+[  145.954915] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[140][0][0][0]
+[  145.954922] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[163] SET[1] LEN[376]
+[  145.954928] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[163] to CMD Q
+[  145.954934] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 1448 > [0][181] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  145.954950] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[164] SET[0] LEN[92]
+[  145.954956] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[164] to CMD Q
+[  145.954962] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[165] SET[0] LEN[76]
+[  145.954967] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[165] to CMD Q
+[  145.954971] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:5671, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  146.978942] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  146.978966] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[166] SET[0] LEN[92]
+[  146.978974] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[166] to CMD Q
+[  146.978980] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[167] SET[0] LEN[76]
+[  146.978984] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[167] to CMD Q
+[  146.978988] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  150.141415] [wlan][0]kalArpFrameClassifier:(TX INFO) ARP RSP PKT[0x00000000e37fe9c6] TAR MAC/IP[10:7c:**:**:**:20]/[192.***.***.1], SeqNo: 98
+[  150.141469] [wlan][0]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  150.141482] [wlan][0]wlanGetSpeIdx:(INIT INFO) SpeIdx:0,D:0,G=0,B=2,Bss=0
+[  150.141520] [wlan][0]kalPerMonStart:(SW4 INFO) perf monitor started
+[  150.142642] [wlan][1012]wlanPktTxDone:(TX INFO) TX DONE, Type[ARP] Tag[0x51849b00] WIDX:PID[1:98] Status[0], SeqNo: 98
+[  151.202929] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[11094] TX-Byte[42][0][0][0],RX-Byte[11052][0][0][0]
+[  151.202952] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[141][0][0][0]
+[  151.202962] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[168] SET[1] LEN[376]
+[  151.202970] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[168] to CMD Q
+[  151.202977] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  151.202989] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[169] SET[0] LEN[92]
+[  151.202994] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[169] to CMD Q
+[  151.202998] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[170] SET[0] LEN[76]
+[  151.203001] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[170] to CMD Q
+[  151.203004] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  152.226848] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[52] TX-Byte[0][0][0][0],RX-Byte[52][0][0][0]
+[  152.226863] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[137][0][0][0]
+[  152.226872] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[171] SET[1] LEN[376]
+[  152.226878] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[171] to CMD Q
+[  152.226885] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 416 > [0][52] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  152.226898] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[172] SET[0] LEN[92]
+[  152.226903] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[172] to CMD Q
+[  152.226907] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[173] SET[0] LEN[76]
+[  152.226910] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[173] to CMD Q
+[  152.226913] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  153.250812] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[0] PER[0 0]
+[  153.250843] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x85] SEQ[174] SET[0] LEN[92]
+[  153.250854] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x85] SEQ[174] to CMD Q
+[  153.250863] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x82] SEQ[175] SET[0] LEN[76]
+[  153.250870] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x82] SEQ[175] to CMD Q
+[  153.250876] [wlan][1012]wlanLinkQualityMonitor:(SW4 INFO) Link Quality: Tx(rate:6005, total:0, retry:0, fail:0, RTS fail:0, ACK fail:0), Rx(rate:60, total:0, dup:0, error:0), PER(0), Congestion(idle slot:0, diff:0)
+[  206.245488] [wlan][1191]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x4000 [mac]addr=00:00:**:**:**:00 mask=00:00:**:**:**:00 n_ssids=1: n_channels=98: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165 1 5 9 13 17 21 25 29 33 37 41 45 49 53 57 61 65 69 73 77 81 85 89 93 97 101 105 109 113 117 121 125 129 133 137 141 145 149 153 157 161 165 169 173 177 181 185 189 193 197 201 205 209 213 217 221 225 229 233
+[  206.245517] [wlan][1191]mtk_cfg80211_scan:(REQ STATE) i=0, wildcard scan
+[  206.245526] [wlan][1191]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(98==>54) wildcard=0x1 random_mac=00:00:**:**:**:00
+[  206.245544] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [NORMAL_TR] -> [ONLINE_SCAN]
+[  206.245561] [wlan][1012]scanSetRequestChannel:(SCN INFO) channel num(54=>54) 00000000 00000000 00000022 22211111 11111110 00000001 11111110 00007FFE 00000020 00200020 00200020 00200020 00200020 00200020 00200020 00200020
+[  206.245579] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[  206.245593] [wlan][1012]scnSendScanReqV2:(SCN INFO) Include BSSID 00:00:**:**:**:00 in probe request
+[  206.245602] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] 1: 107c10424
+[  206.245623] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=32,Ext=22,Seq=2,Ver=1,Dw=0,Min=0,Func=0x2,Mac=00:00:**:**:**:00,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136,Ext Ch: 140 144 149 153 157 161 165 5 21 37 53 69 85 101 117 133 149 165 181 197 213 229
+[  206.245637] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[176] SET[1] LEN[1252]
+[  206.245643] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x03] SEQ[176] to CMD Q
+[  206.303778] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  206.303786] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  206.303788] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  206.303792] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  206.303793] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  206.303796] [wlan][1012]heRlmRecHeCapInfo:(RLM INFO) ER: TX:0, RX:0, bw:0, 4x LTF:0, 1X LTF:0
+[  206.303798] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  206.303799] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  206.303799] [wlan][1012]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xfffa to 0xfffe
+[  206.303801] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  206.303802] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  206.305144] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  206.330926] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(0), band=1
+[  206.333314] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  206.335802] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  206.341739] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (d8:e8:**:**:**:6e) valid(1) found(0), band=1
+[  206.341748] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DDB 5G,rx:2
+[  206.341749] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DDB 5G,er:0
+[  206.344201] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  206.355930] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  206.404059] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  206.441358] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 2 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  206.530882] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 3 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  206.613742] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  206.669621] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  206.715377] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (d2:32:**:**:**:9e) valid(0) found(0), band=1
+[  206.731803] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  206.757331] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 4 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  206.777107] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 5 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  206.820646] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 5 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  206.834132] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 5 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  206.884072] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  206.888054] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  206.890575] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  206.912874] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  206.920930] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f4:2d:**:**:**:bf) valid(1) found(0), band=1
+[  206.920958] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,rx:2
+[  206.920964] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,er:0
+[  206.923032] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  206.928893] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  206.931604] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:91) valid(0) found(1), band=1
+[  206.956283] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  207.012635] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  207.021820] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  207.021846] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  207.021852] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  207.021865] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  207.021870] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  207.021878] [wlan][1012]heRlmRecHeCapInfo:(RLM INFO) ER: TX:0, RX:0, bw:0, 4x LTF:0, 1X LTF:0
+[  207.021885] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  207.021889] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  207.021893] [wlan][1012]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xfffa to 0xfffe
+[  207.021939] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  207.021944] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  207.095368] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 8 8 8 (2c:70:**:**:**:ab) valid(1) found(1), band=1
+[  207.095389] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  207.095393] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  207.175943] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 9 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  207.193796] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 9 9 9 (64:2c:**:**:**:e8) valid(1) found(0), band=1
+[  207.249219] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  207.304697] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  207.328214] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  207.331614] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  207.336695] [wlan][1012]scanAddToBssDesc:(SCN ERROR) IE len(522) > Max IE buffer size(512), truncate IE!
+[  207.336716] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  207.336730] [wlan][1012]scanAddToBssDesc:(SCN WARN) IE is truncated!
+[  207.336740] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  207.336745] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  207.343935] [wlan][1012]scanAddToBssDesc:(SCN ERROR) IE len(522) > Max IE buffer size(512), truncate IE!
+[  207.343949] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  207.343957] [wlan][1012]scanAddToBssDesc:(SCN WARN) IE is truncated!
+[  207.343964] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  207.343968] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  207.388396] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (ec:75:**:**:**:f7) valid(1) found(0), band=1
+[  207.388422] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,rx:2
+[  207.388426] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,er:0
+[  207.398577] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 9 9 10 (64:2c:**:**:**:e8) valid(1) found(1), band=1
+[  207.402236] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  207.438984] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 11 (ec:75:**:**:**:f7) valid(1) found(1), band=1
+[  207.493016] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 11 (ec:75:**:**:**:f7) valid(1) found(1), band=1
+[  207.493041] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,rx:2
+[  207.493046] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,er:0
+[  207.560453] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  207.616418] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  207.740220] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  207.741423] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  207.742113] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  207.742437] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  207.743602] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  207.744247] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  207.803517] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  207.806098] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  207.841476] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  207.865726] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  207.873418] [wlan][2382]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  207.877536] [wlan][2382]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  207.877661] [wlan][2382]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  207.877682] [wlan][2382]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  207.920197] [wlan][1939]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0xCB] SEQ[177] SET[1] LEN[100]
+[  207.920210] [wlan][1939]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0xCB] SEQ[177] to CMD Q
+[  207.920221] [wlan][1939]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] BE: T[000278] R[000000] T_D[000000] T_F[000000]
+[  207.920227] [wlan][1939]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] BK: T[000000] R[000000] T_D[000000] T_F[000000]
+[  207.920231] [wlan][1939]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] VI: T[000000] R[000000] T_D[000000] T_F[000000]
+[  207.920235] [wlan][1939]wlanDumpBssStatistics:(SW4 INFO) LLS BSS[0] VO: T[000002] R[000000] T_D[000000] T_F[000000]
+[  207.920269] [wlan][1939]kalPerMonStart:(SW4 INFO) perf monitor started
+[  207.920575] [wlan][1939]std_get_mode:(INIT INFO)  mtk std ioctl is called.
+[  207.921009] [wlan][1939]std_get_mode:(INIT INFO)  mtk std ioctl is called.
+[  207.923361] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  207.943876] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 44 44 (7a:a4:**:**:**:90) valid(0) found(0), band=2
+[  207.943896] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,rx:0
+[  207.943897] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,er:0
+[  207.958309] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 44 44 (7a:a4:**:**:**:97) valid(1) found(0), band=2
+[  207.958317] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,rx:0
+[  207.958318] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,er:0
+[  208.009310] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 48 48 48 (6e:ff:**:**:**:a4) valid(0) found(1), band=2
+[  208.131849] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  208.131907] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  208.131915] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  208.133530] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  208.133551] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  208.133557] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  208.147105] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  208.147129] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  208.147135] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  208.151007] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 56 56 56 (f6:2d:**:**:**:c0) valid(0) found(0), band=2
+[  208.151029] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,rx:2
+[  208.151033] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,er:0
+[  208.193056] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  208.248976] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  208.252266] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  208.252288] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  208.252294] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  208.252309] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.252315] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.252323] [wlan][1012]heRlmRecHeCapInfo:(RLM INFO) ER: TX:0, RX:0, bw:0, 4x LTF:0, 1X LTF:0
+[  208.252331] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.252335] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.252339] [wlan][1012]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xfffa to 0xfffe
+[  208.252346] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.252350] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.268970] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  208.268988] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  208.268992] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  208.269002] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.269005] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.269011] [wlan][1012]heRlmRecHeCapInfo:(RLM INFO) ER: TX:0, RX:0, bw:0, 4x LTF:0, 1X LTF:0
+[  208.269016] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.269018] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.269020] [wlan][1012]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xfffa to 0xfffe
+[  208.269025] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.269027] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.270294] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  208.270307] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  208.270310] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  208.270316] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.270319] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.270323] [wlan][1012]heRlmRecHeCapInfo:(RLM INFO) ER: TX:0, RX:0, bw:0, 4x LTF:0, 1X LTF:0
+[  208.270327] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.270329] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.270331] [wlan][1012]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xfffa to 0xfffe
+[  208.270335] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.270337] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.331549] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  208.331578] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  208.331585] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  208.333114] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  208.333137] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  208.333142] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  208.380312] [wlan][2534]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  208.380372] [wlan][2534]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  208.381029] [wlan][2386]std_get_essid:(INIT INFO)  mtk std ioctl is called.
+[  208.381429] [wlan][2382]std_get_essid:(INIT INFO)  mtk std ioctl is called.
+[  208.381496] [wlan][2534]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  208.381549] [wlan][2534]std_get_name:(INIT INFO)  mtk std ioctl is called.
+[  208.381992] [wlan][2394]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent!
+[  208.382004] [wlan][2394]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent Quota Availalbe
+[  208.501145] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  208.556825] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  208.556848] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  208.556853] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  208.556891] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.556897] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.556906] [wlan][1012]heRlmRecHeCapInfo:(RLM INFO) ER: TX:0, RX:0, bw:0, 4x LTF:0, 1X LTF:0
+[  208.556912] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.556915] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.556918] [wlan][1012]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xfffa to 0xfffe
+[  208.556924] [wlan][1012]rlmDomainGetChannelBw:(RLM INFO) ch=60, BW=4
+[  208.556926] [wlan][1012]cnmGetBssMaxBw:(CNM INFO) pCH=60, BW=2
+[  208.557716] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,1,2
+[  208.755842] [wlan][4893]kalIPv4FrameClassifier:(TX INFO) <TX> DNS: [0x00000000891dd931] IPID[0x6bf6] TransID[0x1217] SeqNo[99]
+[  208.755888] [wlan][4893]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  208.755902] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent!
+[  208.755905] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent Quota Availalbe
+[  208.755940] [wlan][4893]kalIPv4FrameClassifier:(TX INFO) <TX> DNS: [0x000000009b6d9828] IPID[0xbb00] TransID[0x1b64] SeqNo[100]
+[  208.755947] [wlan][4893]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  208.755951] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent!
+[  208.755954] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent Quota Availalbe
+[  208.755963] [wlan][4893]kalIPv4FrameClassifier:(TX INFO) <TX> DNS: [0x0000000048ab4e0d] IPID[0xbc00] TransID[0xa56a] SeqNo[101]
+[  208.755970] [wlan][4893]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  208.755973] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent!
+[  208.755976] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent NoQuota
+[  208.756004] [wlan][4893]kalIPv4FrameClassifier:(TX INFO) <TX> DNS: [0x0000000078dbaba3] IPID[0x6cf6] TransID[0xb711] SeqNo[102]
+[  208.756011] [wlan][4893]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  208.756014] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent!
+[  208.756017] [wlan][4893]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent NoQuota
+[  208.762567] [wlan][1191]SCANLOG:(SCN INFO) [SCN:1100:K2D] mtk_cfg80211_abort_scan
+[  208.762593] [wlan][1012]wlanoidAbortScan:(OID INFO) ucBssIndex = 0
+[  208.762607] [wlan][1012]aisFsmStateAbort_SCAN:(AIS STATE) [0] aisFsmStateAbort_SCAN
+[  208.762614] [wlan][1012]SCANLOG:(SCN INFO) [SCN:1200:D2F] Scan Abort#2 to Q: isExtCh=0
+[  208.762620] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x1B] SEQ[178] SET[1] LEN[68]
+[  208.762626] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x1B] SEQ[178] to CMD Q
+[  208.762633] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[  208.762643] [wlan][1012]aisFsmRunEventScanDone:(AIS INFO) ScanDone 2, status(1) native req(2)
+[  208.762666] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:17/25  DIGI-G5HP; DIGI-Gw8V; alinam; DIGI-VtGD; DDB 5G; DDB; TP-Link_3298; LMHOME; DIGI-C92Q; DIGIFIBRA-2uGU; Drie271; DIGI-TarU; DIGI-d9Ey; DIGI-G5hP_Ext_5G; mira; TP-Link_3298_5G; DIGIFIBRA-PLUS-2uGU;
+[  208.762774] [wlan][1191]mtk_cfg80211_deauth:(REQ INFO) mtk_cfg80211_deauth
+[  208.762785] [wlan][1191]authSendDeauthFrame:(RSN INFO) authSendDeauthFrame
+[  208.762790] [wlan][1191]authSendDeauthFrame:(SAA WARN) No unused DEAUTH_INFO_T !
+[  208.762794] [wlan][1191]authSendDeauthFrame:(SAA INFO) ucTxSeqNum=103 ucStaRecIndex=0 u2ReasonCode=3
+[  208.762798] [wlan][1191]authSendDeauthFrame:(SAA INFO) notification of TX deauthentication, 26
+[  208.762801] [wlan][1191]kalIndicateTxDeauthToUpperLayer:(REQ INFO) 
+[  208.762803] [wlan][1012]SCANLOG:(SCN INFO) [SCN:1300:D2K] Call cfg80211_scan_done (aborted=1)
+[  208.762804] [wlan][1191]cfg80211AddToPktQueue:(REQ INFO) switch cfg80211 workq from main_thread
+[  208.762817] [wlan][1191]authSendDeauthFrame:(SAA INFO) notification of TX deauthentication, Done
+[  208.762817] [wlan][1012]scanGetCurrentEssChnlList:(SCN INFO) Find DIGI-G5HP in 31 BSSes, result 3
+[  208.762824] [wlan][1191]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  208.762824] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [ONLINE_SCAN] -> [NORMAL_TR]
+[  208.762831] [wlan][1191]wlanGetSpeIdx:(INIT INFO) SpeIdx:0,D:0,G=0,B=2,Bss=0
+[  208.762832] [wlan][1012]cnmOpModeGetTRxNss:(CNM INFO) GetOpMode BSS[0](MAX_CAP) T:1 R:1
+[  208.762840] [wlan][1191]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[3] ID[0x00] SEQ[103] to CMD Q
+[  208.762895] [wlan][1012]kalIndicateStatusAndComplete:(INIT INFO) [wifi] wlan0 netif_carrier_off
+[  208.762898] [wlan][174]wlanSchedCfg80211WorkQueue:(REQ INFO) 
+[  208.762904] [wlan][174]wlanSchedCfg80211WorkQueue:(REQ INFO) cfg80211_tx_mlme_mgmt 192 26
+[  208.762908] [wlan][174]kalProcessCfg80211TxPkt:(REQ INFO) 
+[  208.762909] [wlan][1012]kalIndicateStatusAndComplete:(INIT INFO) Skip report DISCONNECTED when using supplicant SME
+[  208.762915] [wlan][1012]p2pFuncSwitchSapChannel:(P2P WARN) Not support concurrent STA + SAP
+[  208.762921] [wlan][1012]aisFsmRunEventAbort:(AIS STATE) [0] EVENT-ABORT: Current State NORMAL_TR, ucReasonOfDisconnect:4
+[  208.762928] [wlan][1012]scanGetCurrentEssChnlList:(SCN INFO) Find DIGI-G5HP in 31 BSSes, result 3
+[  208.762933] [wlan][1012]aisFsmInsertRequest:(AIS INFO) eCurrentState=11, eReqType=1, u4NumElem=1
+[  208.762937] [wlan][1012]aisFsmStateAbort:(AIS STATE) [0] aisFsmStateAbort DiscReason[4], CurState[11]
+[  208.762943] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [NORMAL_TR] -> [DISCONNECTING]
+[  208.762947] [wlan][1012]authSendDeauthFrame:(RSN INFO) authSendDeauthFrame
+[  208.762950] [wlan][1012]authSendDeauthFrame:(SAA WARN) No unused DEAUTH_INFO_T !
+[  208.762953] [wlan][1012]authSendDeauthFrame:(SAA INFO) ucTxSeqNum=104 ucStaRecIndex=0 u2ReasonCode=3
+[  208.762957] [wlan][1012]authSendDeauthFrame:(SAA INFO) notification of TX deauthentication, 26
+[  208.762959] [wlan][1012]kalIndicateTxDeauthToUpperLayer:(REQ INFO) 
+[  208.763029] [wlan][1012]cfg80211AddToPktQueue:(REQ INFO) switch cfg80211 workq from main_thread
+[  208.763041] [wlan][1012]authSendDeauthFrame:(SAA INFO) notification of TX deauthentication, Done
+[  208.763046] [wlan][1012]nicTxFillDesc:(NIC INFO) Compose TXD by Msdu info
+[  208.763051] [wlan][1012]wlanGetSpeIdx:(INIT INFO) SpeIdx:0,D:0,G=0,B=2,Bss=0
+[  208.763056] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[3] ID[0x00] SEQ[104] to CMD Q
+[  208.776310] [wlan][1173]statsParsePktInfo:(RX INFO) <RX> DNS: IPID 0x12a5, TransID 0x1217
+[  208.776560] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  208.776605] [wlan][1013]nicTxCmd:(TX INFO) Insert msdu WIDX:PID[1:103]
+[  208.776617] [wlan][0]statsParsePktInfo:(RX INFO) <RX> DNS: IPID 0x13a5, TransID 0x1b64
+[  208.777866] [wlan][0]nicTxDirectCheckBssAbsentQ:(TX INFO) fgIsNetAbsent END!
+[  208.777870] [wlan][0]nicTxDirectTimerCheckHifQ:(TX INFO) ucBssIndex: 0
+[  208.778700] [wlan][0]statsParsePktInfo:(RX INFO) <RX> DNS: IPID 0x14a5, TransID 0xa56a
+[  208.778993] [wlan][0]statsParsePktInfo:(RX INFO) <RX> DNS: IPID 0x15a5, TransID 0xb711
+[  208.783890] [wlan][1012]wlanPktTxDone:(TX INFO) TX DONE, Type[DNS] Tag[0x0f0a4c00] WIDX:PID[1:99] Status[0], SeqNo: 99
+[  208.783899] [wlan][1012]wlanPktTxDone:(TX INFO) TX DONE, Type[DNS] Tag[0x4d387f00] WIDX:PID[1:100] Status[0], SeqNo: 100
+[  208.783902] [wlan][1012]wlanPktTxDone:(TX INFO) TX DONE, Type[DNS] Tag[0x4d387a00] WIDX:PID[1:101] Status[0], SeqNo: 101
+[  208.784009] [wlan][1012]wlanPktTxDone:(TX INFO) TX DONE, Type[DNS] Tag[0x0f0a4600] WIDX:PID[1:102] Status[0], SeqNo: 102
+[  208.784200] [wlan][1012]nicGetPendingTxMsduInfo:(TX WARN) Cannot get Target Msdu WIDX:PID[1:153] from Pending Q
+[  208.784209] [wlan][1012]aisDeauthXmitCompleteBss:(AIS EVENT) aisDeauthXmitComplete
+[  208.784211] [wlan][1012]aisFsmStateAbort:(AIS STATE) [0] aisFsmStateAbort DiscReason[2], CurState[12]
+[  208.784214] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x17] SEQ[179] SET[1] LEN[68]
+[  208.784216] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x17] SEQ[179] to CMD Q
+[  208.784222] [wlan][1012]rlmFillSyncCmdParam:(RLM INFO) N=0 closed
+[  208.784223] [wlan][1012]nicUpdateBss:(BSS INFO) Update Bss[0] ConnState[1] OPmode[0] BSSID[10:7c:**:**:**:24] AuthMode[7] EncStatus[6]
+[  208.784226] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x12] SEQ[180] SET[1] LEN[180]
+[  208.784227] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x12] SEQ[180] to CMD Q
+[  208.784229] [wlan][1012]bssInitializeClientList:(BSS INFO) Init BSS[0] Client List
+[  208.784231] [wlan][1012]qmDelRxBaEntry:(QM INFO) QM: -RxBA(STA=0,TID=0)
+[  208.784232] [wlan][1012]qmDelRxBaEntry:(QM INFO) QM: -RxBA(STA=0,TID=3)
+[  208.784233] [wlan][1012]qmDelRxBaEntry:(QM INFO) QM: -RxBA(STA=0,TID=6)
+[  208.784245] [wlan][1012]qmSetStaRecTxAllowed:(QM INFO) Set Sta[0] TxAllowed from [1] to [0] pending TxQ
+[  208.784247] [wlan][1012]qmDeactivateStaRec:(QM INFO) QM: -STA[0]
+[  208.784248] [wlan][1012]secPrivacyFreeSta:(RSN INFO) Free STA entry (1)!
+[  208.784250] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[181] SET[1] LEN[68]
+[  208.784251] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x14] SEQ[181] to CMD Q
+[  208.784253] [wlan][1012]roamingFsmRunEventAbort:(ROAMING EVENT) [0] EVENT-ROAMING ABORT: Current Time = -91666
+[  208.784254] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x30] SEQ[182] SET[1] LEN[88]
+[  208.784255] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x30] SEQ[182] to CMD Q
+[  208.784256] [wlan][1012]roamingFsmSteps:(ROAMING STATE) [ROAMING0] TRANSITION: [DECISION] -> [IDLE]
+[  208.784258] [wlan][1012]aisIndicationOfMediaStateToHost:(AIS INFO) [0] Current state: 12, connection state indicated: 0
+[  208.784260] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [DISCONNECTING] -> [IDLE]
+[  208.784262] [wlan][1012]aisFsmSteps:(AIS INFO) Reset AIS init flag when change back to IDLE
+[  208.784263] [wlan][1012]aisFsmSteps:(AIS INFO) eReqType=1, fgIsConnReqIssued=0, DisByNonRequest=1
+[  208.784265] [wlan][1012]nicDeactivateNetwork:(RSN INFO) [wlan index]=0 OwnMac=a8:41:**:**:**:44 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  208.784267] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[183] SET[1] LEN[76]
+[  208.784268] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[183] to CMD Q
+[  208.784269] [wlan][1012]secRemoveBssBcEntry:(RSN INFO) remove all the key related with BSS!
+[  208.784270] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[184] SET[1] LEN[68]
+[  208.784271] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x14] SEQ[184] to CMD Q
+[  208.784403] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) wlanoidSetRemoveKey
+[  208.784404] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Set: Dump PARAM_REMOVE_KEY content (000000001e77262d)
+[  208.784406] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Length    : 0x00000010
+[  208.784407] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Key Index : 0x00000000
+[  208.784408] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSS_INDEX : 0
+[  208.784408] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSSID:
+[  208.784409] [wlan]wlanoidSetRemoveKey:(RSN INFO)
+[  208.784410] [wlan]DUMP8 ADDRESS: 0000000044b65adf, Length: 6
+[  208.784411] [wlan](0000000044b65adf) 00 00 00 00  00 00
+[  208.784413] [wlan]
+[  208.784413] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Remove group key id = 0
+[  208.784414] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) group key w/o used info
+[  208.784415] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) ucRemoveBCKeyAtIdx = 255
+[  208.784425] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) wlanoidSetRemoveKey
+[  208.784426] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Set: Dump PARAM_REMOVE_KEY content (000000001e77262d)
+[  208.784427] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Length    : 0x00000010
+[  208.784427] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Key Index : 0x00000001
+[  208.784428] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSS_INDEX : 0
+[  208.784429] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSSID:
+[  208.784429] [wlan]wlanoidSetRemoveKey:(RSN INFO)
+[  208.784430] [wlan]DUMP8 ADDRESS: 0000000044b65adf, Length: 6
+[  208.784431] [wlan](0000000044b65adf) 00 00 00 00  00 00
+[  208.784432] [wlan]
+[  208.784432] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Remove group key id = 1
+[  208.784433] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) group key w/o used info
+[  208.784434] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) ucRemoveBCKeyAtIdx = 255
+[  208.784441] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) wlanoidSetRemoveKey
+[  208.784442] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Set: Dump PARAM_REMOVE_KEY content (000000001e77262d)
+[  208.784443] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Length    : 0x00000010
+[  208.784443] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Key Index : 0x00000002
+[  208.784444] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSS_INDEX : 0
+[  208.784445] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSSID:
+[  208.784445] [wlan]wlanoidSetRemoveKey:(RSN INFO)
+[  208.784446] [wlan]DUMP8 ADDRESS: 0000000044b65adf, Length: 6
+[  208.784446] [wlan](0000000044b65adf) 00 00 00 00  00 00
+[  208.784447] [wlan]
+[  208.784448] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Remove group key id = 2
+[  208.784448] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) ucRemoveBCKeyAtIdx = 0
+[  208.784449] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x07] SEQ[185] SET[1] LEN[128]
+[  208.784451] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x07] SEQ[185] to CMD Q
+[  208.784469] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) wlanoidSetRemoveKey
+[  208.784471] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Set: Dump PARAM_REMOVE_KEY content (000000001e77262d)
+[  208.784472] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Length    : 0x00000010
+[  208.784472] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Key Index : 0x00000003
+[  208.784473] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSS_INDEX : 0
+[  208.784474] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSSID:
+[  208.784474] [wlan]wlanoidSetRemoveKey:(RSN INFO)
+[  208.784475] [wlan]DUMP8 ADDRESS: 0000000044b65adf, Length: 6
+[  208.784476] [wlan](0000000044b65adf) 00 00 00 00  00 00
+[  208.784477] [wlan]
+[  208.784477] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Remove group key id = 3
+[  208.784478] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) group key w/o used info
+[  208.784479] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) ucRemoveBCKeyAtIdx = 255
+[  208.784485] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) wlanoidSetRemoveKey
+[  208.784486] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Set: Dump PARAM_REMOVE_KEY content (000000001e77262d)
+[  208.784487] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Length    : 0x00000010
+[  208.784488] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Key Index : 0x00000004
+[  208.784489] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSS_INDEX : 0
+[  208.784489] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSSID:
+[  208.784490] [wlan]wlanoidSetRemoveKey:(RSN INFO)
+[  208.784491] [wlan]DUMP8 ADDRESS: 0000000044b65adf, Length: 6
+[  208.784491] [wlan](0000000044b65adf) 00 00 00 00  00 00
+[  208.784492] [wlan]
+[  208.784493] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Remove bip key Index : 0x00000004
+[  208.784522] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) wlanoidSetRemoveKey
+[  208.784522] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Set: Dump PARAM_REMOVE_KEY content (000000001e77262d)
+[  208.784523] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Length    : 0x00000010
+[  208.784524] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Key Index : 0x00000005
+[  208.784525] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSS_INDEX : 0
+[  208.784525] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) BSSID:
+[  208.784526] [wlan]wlanoidSetRemoveKey:(RSN INFO)
+[  208.784527] [wlan]DUMP8 ADDRESS: 0000000044b65adf, Length: 6
+[  208.784527] [wlan](0000000044b65adf) 00 00 00 00  00 00
+[  208.784528] [wlan]
+[  208.784529] [wlan][1012]wlanoidSetRemoveKey:(RSN INFO) Remove bip key Index : 0x00000005
+[  208.784538] [wlan][174]wlanSchedCfg80211WorkQueue:(REQ INFO) cfg80211_tx_mlme_mgmt 192 26
+[  208.784543] [wlan][174]kalProcessCfg80211TxPkt:(REQ INFO) 
+[  208.784548] [wlan][174]wlanSchedCfg80211WorkQueue:(REQ INFO) 
+[  208.784689] mtk_cfg_get_txpower: 1 callbacks suppressed
+[  208.784693] [wlan][1191]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+[  208.784775] [wlan][1191]mtk_cfg80211_set_cqm_rssi_config:(REQ INFO) ucBssIndex = 0
+[  208.784778] [wlan][1191]mtk_cfg80211_set_cqm_rssi_config:(OID INFO) Set RSSI Config Enable: 0 rcpi_thold: 254 rcpi_hyst 0
+[  208.784785] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x3E] SEQ[186] SET[1] LEN[72]
+[  208.784787] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x3E] SEQ[186] to CMD Q
+[  208.784929] [wlan][1191]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+[  208.786271] [wlan][1171]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+[  208.786434] [wlan][1172]wlanSetMulticastListWorkQueue:(INIT INFO) ucBssIndex = 0
+[  208.786443] [wlan][1172]wlanSetMulticastListWorkQueue:(INIT INFO) wlanSetMulticastListWorkQueue prDev->flags:0x1203
+[  208.786476] [wlan][1012]wlanoidSetCurrentPacketFilter:(REQ INFO) wlanoidSetCurrentPacketFilter
+[  208.786491] [wlan][1012]wlanoidSetPacketFilter:(OID INFO) [MC debug] u4PacketFilter=c, IsSuspend=0
+[  208.786499] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x0A] SEQ[187] SET[1] LEN[132]
+[  208.786505] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x0A] SEQ[187] to CMD Q
+[  208.786607] [wlan][1171]kalNapiDisable:(RX INFO) RX NAPI disable ongoing wlan0
+[  208.786615] [wlan][1171]kalNapiDisable:(RX INFO) RX NAPI disabled wlan0
+[  208.787506] [wlan][1171]wlanSetMacAddress:(INIT INFO) [wlan0] Set connect random macaddr to 2a:30:**:**:**:68.
+[  208.788010] [wlan][1171]kalNapiEnable:(RX INFO) RX NAPI enabled wlan0
+[  208.788032] [wlan][1172]wlanSetMulticastListWorkQueue:(INIT INFO) ucBssIndex = 0
+[  208.788036] [wlan][1172]wlanSetMulticastListWorkQueue:(INIT INFO) wlanSetMulticastListWorkQueue prDev->flags:0x1203
+[  208.788063] [wlan][1012]wlanoidSetCurrentPacketFilter:(REQ INFO) wlanoidSetCurrentPacketFilter
+[  208.788071] [wlan][1012]wlanoidSetPacketFilter:(OID INFO) [MC debug] u4PacketFilter=c, IsSuspend=0
+[  208.788078] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x0A] SEQ[188] SET[1] LEN[132]
+[  208.788083] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x0A] SEQ[188] to CMD Q
+[  208.788258] [wlan][403]wlanSetMulticastListWorkQueue:(INIT INFO) ucBssIndex = 0
+[  208.788266] [wlan][403]wlanSetMulticastListWorkQueue:(INIT INFO) wlanSetMulticastListWorkQueue prDev->flags:0x1203
+[  208.788279] [wlan][1012]wlanoidSetCurrentPacketFilter:(REQ INFO) wlanoidSetCurrentPacketFilter
+[  208.788282] [wlan][1012]wlanoidSetPacketFilter:(OID INFO) [MC debug] u4PacketFilter=c, IsSuspend=0
+[  208.788286] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x0A] SEQ[189] SET[1] LEN[132]
+[  208.788288] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x0A] SEQ[189] to CMD Q
+[  208.788472] [wlan][1171]mtk_cfg80211_set_power_mgmt:(REQ INFO) 0: enabled=0, timeout=-1, fgTIMPresend=1
+[  208.788488] [wlan][403]wlanSetMulticastListWorkQueue:(INIT INFO) ucBssIndex = 0
+[  208.788488] [wlan][1012]nicPowerSaveInfoMap:(NIC INFO) Flag=0x0001, Caller=0, PM=0, PSFlag[0]=0x0001
+[  208.789085] [wlan][403]wlanSetMulticastListWorkQueue:(INIT INFO) wlanSetMulticastListWorkQueue prDev->flags:0x1203
+[  208.789101] [wlan][1012]wlanoidSetCurrentPacketFilter:(REQ INFO) wlanoidSetCurrentPacketFilter
+[  208.789105] [wlan][1012]wlanoidSetPacketFilter:(OID INFO) [MC debug] u4PacketFilter=c, IsSuspend=0
+[  208.789111] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x0A] SEQ[190] SET[1] LEN[132]
+[  208.789117] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x0A] SEQ[190] to CMD Q
+[  208.800703] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  208.809404] [wlan][1191]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+[  208.809538] [wlan][1191]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x4000 [mac]addr=00:00:**:**:**:00 mask=00:00:**:**:**:00 n_ssids=1: n_channels=98: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165 1 5 9 13 17 21 25 29 33 37 41 45 49 53 57 61 65 69 73 77 81 85 89 93 97 101 105 109 113 117 121 125 129 133 137 141 145 149 153 157 161 165 169 173 177 181 185 189 193 197 201 205 209 213 217 221 225 229 233
+[  208.809548] [wlan][1191]mtk_cfg80211_scan:(REQ STATE) i=0, wildcard scan
+[  208.809553] [wlan][1191]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(98==>54) wildcard=0x1 random_mac=00:00:**:**:**:00
+[  208.809576] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[  208.809579] [wlan][1012]secPrivacySeekForBcEntry:(RSN WARN) Always install gtk in same wtbl
+[  208.809580] [wlan][1012]secPrivacySeekForBcEntry:(INIT INFO) OpMode:0, NetworkType:0, CheckKeyId:0
+[  208.809582] [wlan][1012]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#0 STAIdx=254 2a:30:**:**:**:68
+[  208.809585] [wlan][1012]nicActivateNetwork:(RSN INFO) [wlan index]=0 OwnMac1=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  208.809590] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[191] SET[1] LEN[76]
+[  208.809592] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[191] to CMD Q
+[  208.809596] [wlan][1012]scanSetRequestChannel:(SCN INFO) channel num(54=>54) 00000000 00000000 00000022 22211111 11111110 00000001 11111110 00007FFE 00000020 00200020 00200020 00200020 00200020 00200020 00200020 00200020
+[  208.809605] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[  208.809609] [wlan][1012]scnSendScanReqV2:(SCN INFO) Include BSSID 00:00:**:**:**:00 in probe request
+[  208.809622] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] 25: 107c104241c2013354487b1139440ee1db2cd8e81bf6e68ff114a5d2322199e82a40f29040ee26ea4f8981ba24f42d05abf82a40f2912c700efab1c6118fde642c134e8107c10420ec75134f71c6118fddcc322199f7aa40f2907aa40f2976eff114a4f42d05ac0f62d06ac02c700efac
+[  208.809631] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] 25: 107c104241c2013354487b1139440ee1db2cd8e81bf6e68ff114a5d2322199e82a40f29040ee26ea4f8981ba24f42d05abf82a40f2912c700efab1c6118fde642c134e8107c10420ec75134f71c6118fddcc322199f7aa40f2907aa40f2976eff114a4f42d05ac0f62d06ac02c700efac
+[  208.809639] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=32,Ext=22,Seq=3,Ver=1,Dw=0,Min=0,Func=0x2,Mac=00:00:**:**:**:00,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136,Ext Ch: 140 144 149 153 157 161 165 5 21 37 53 69 85 101 117 133 149 165 181 197 213 229
+[  208.809645] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[192] SET[1] LEN[1252]
+[  208.809647] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x03] SEQ[192] to CMD Q
+[  208.809787] [wlan][1191]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+[  208.817267] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  208.858828] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  208.864090] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  208.866284] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  208.868830] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  208.871880] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  208.895360] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (d8:e8:**:**:**:6e) valid(1) found(1), band=1
+[  208.895372] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DDB 5G,rx:2
+[  208.895374] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DDB 5G,er:0
+[  208.929975] [wlan][1012]kalSetPerfReport:(SW4 INFO) Total TP[9637] TX-Byte[2943][0][0][0],RX-Byte[6694][0][0][0]
+[  208.929991] [wlan][1012]kalSetPerfReport:(SW4 INFO) Rate[0][0][0][0] RCPI[141][0][0][0]
+[  208.929998] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x7E] SEQ[193] SET[1] LEN[376]
+[  208.930005] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x7E] SEQ[193] to CMD Q
+[  208.930012] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[1] PER[0 0]
+[  208.930022] [wlan][1012]wlanLinkQualityMonitor:(SW4 ERROR) not yet connected
+[  208.939582] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  208.953772] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  209.035030] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 3 (6e:ff:**:**:**:a5) valid(0) found(0), band=1
+[  209.038350] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 3 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  209.042228] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 3 (cc:32:**:**:**:9e) valid(1) found(0), band=1
+[  209.085427] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 3 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  209.131108] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  209.143944] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (cc:32:**:**:**:9e) valid(1) found(1), band=1
+[  209.147346] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  209.165906] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 4 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  209.171738] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (d2:32:**:**:**:9e) valid(0) found(1), band=1
+[  209.187874] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  209.262541] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 5 (cc:32:**:**:**:9e) valid(1) found(1), band=1
+[  209.290234] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 5 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  209.336721] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  209.340577] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  209.343125] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  209.345607] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  209.378708] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f4:2d:**:**:**:bf) valid(1) found(1), band=1
+[  209.378728] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,rx:2
+[  209.378732] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,er:0
+[  209.386567] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  209.389139] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:91) valid(0) found(1), band=1
+[  209.462605] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 7 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  209.586431] [wlan][1012]scanAddToBssDesc:(SCN ERROR) IE len(522) > Max IE buffer size(512), truncate IE!
+[  209.586448] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  209.586455] [wlan][1012]scanAddToBssDesc:(SCN WARN) IE is truncated!
+[  209.586461] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  209.586464] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  209.589801] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.593397] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.596864] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.600329] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.603796] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.607231] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.641137] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (ec:75:**:**:**:f7) valid(1) found(1), band=1
+[  209.641162] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,rx:2
+[  209.641167] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,er:0
+[  209.651369] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 9 9 10 (64:2c:**:**:**:e8) valid(1) found(1), band=1
+[  209.654974] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  209.897383] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  209.898634] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  209.899222] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  209.899816] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  209.900590] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  209.901408] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  209.954049] [wlan][1012]kalPerMonHandler:(SW4 INFO) Tput: 0 > [0][0] [0][0] [0][0] [0][0],Pending[0], Used[1] PER[0 0]
+[  209.954075] [wlan][1012]wlanLinkQualityMonitor:(SW4 ERROR) not yet connected
+[  209.961828] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  209.963226] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  209.992014] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  210.078211] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  210.079813] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  210.108637] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  210.205882] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  210.205908] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  210.205914] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  210.207409] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  210.207436] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  210.207442] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  210.271951] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  210.271973] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  210.271977] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  210.273659] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  210.273681] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  210.273687] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  210.296712] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.296725] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.297298] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  210.297317] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  210.297322] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  210.297473] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.297477] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.298230] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.298238] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.298976] [wlan][1945]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.298983] [wlan][1945]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.299742] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.299751] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.300613] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.300638] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.301246] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.301261] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.301984] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.302000] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.302923] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.302952] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.303626] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.303647] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.304409] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) HAL_MAC_CONNAC2X_RX_STATUS_IS_CIPHER_MISMATCH
+[  210.304432] [wlan][0]nic_rxd_v2_sanity_check:(RSN INFO) Drop plain text during security connection
+[  210.334443] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  210.334472] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  210.334478] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  210.335931] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  210.336069] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  210.336077] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  210.336662] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  210.336682] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  210.336687] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  210.338346] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 64 64 64 (2e:70:**:**:**:ac) valid(0) found(0), band=2
+[  210.338363] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,rx:2
+[  210.338367] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,er:0
+[  211.955273] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone348,ucCompleteChanCount[54],ucCurrentState7, u4ScanDurBcnCnt[58],Seq[3]
+[  211.955304] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] 24: 1c201335440ee1db2cd8e81bf6e487b113946eff114a568ff114a5cc322199ed2322199e82a40f29040ee26ea4f8981ba24f42d05abf82a40f291107c104201c6118fdeec75134f7642c134e81c6118fddcc322199f68ff114a4f42d05ac0107c104242c700efac2e700efac
+[  211.955312] [wlan][1012]scnEventScanDone:(SCN INFO) Country Code = 00, Detected_Channel_Num = 54
+[  211.955320] [wlan][1012]scnEventScanDone:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    14    36    40    44    48    52    56    60    64   100   104   108   112   116   120   124   128   132   136   140   144   149   153   157   161   165     5    21    37    53    69    85   101   117   133   149   165   181   197   213   229
+[  211.955333] [wlan][1012]scnEventScanDone:(SCN INFO) BAndPCnt :      6     2     4     6     2     7     0     0     0    10     0     0     0     0     6     3     0     3     0     2     3     4     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+[  211.955342] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[  211.955347] [wlan][1012]aisFsmRunEventScanDone:(AIS INFO) ScanDone 3, status(0) native req(3)
+[  211.955358] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:17/24  DIGI-Gw8V; DIGI-VtGD; DDB 5G; alinam; DDB; mira; TP-Link_3298; LMHOME; DIGI-C92Q; DIGIFIBRA-2uGU; DIGI-G5HP; DIGI-d9Ey; DIGI-TarU; DIGI-G5hP_Ext_5G; DDB 5Gsf; DIGIFIBRA-PLUS-2uGU; Drie271;
+[  211.955439] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] 23: 1c201335440ee1db2cd8e81bf6e487b113946eff114a5cc322199e68ff114a5d2322199e82a40f29040ee26ea4f8981ba24f42d05abf82a40f291107c104201c6118fdeec75134f71c6118fddcc322199f68ff114a4f42d05ac0107c104242c700efac2e700efac
+[  211.955444] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[  211.955449] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[  211.955452] [wlan][1012]aisFsmSteps:(AIS INFO) Reset AIS init flag when change back to IDLE
+[  211.955455] [wlan][1012]nicDeactivateNetwork:(RSN INFO) [wlan index]=0 OwnMac=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  211.955461] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[194] SET[1] LEN[76]
+[  211.955465] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[194] to CMD Q
+[  211.955468] [wlan][1012]secRemoveBssBcEntry:(RSN INFO) remove all the key related with BSS!
+[  211.955472] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[195] SET[1] LEN[68]
+[  211.955474] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x14] SEQ[195] to CMD Q
+[  212.042128] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  213.371643] [wlan][1191]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x4000 [mac]addr=00:00:**:**:**:00 mask=00:00:**:**:**:00 n_ssids=1: n_channels=98: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165 1 5 9 13 17 21 25 29 33 37 41 45 49 53 57 61 65 69 73 77 81 85 89 93 97 101 105 109 113 117 121 125 129 133 137 141 145 149 153 157 161 165 169 173 177 181 185 189 193 197 201 205 209 213 217 221 225 229 233
+[  213.371669] [wlan][1191]mtk_cfg80211_scan:(REQ STATE) i=0, wildcard scan
+[  213.371678] [wlan][1191]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(98==>54) wildcard=0x1 random_mac=00:00:**:**:**:00
+[  213.371798] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[  213.371816] [wlan][1012]secPrivacySeekForBcEntry:(RSN WARN) Always install gtk in same wtbl
+[  213.371820] [wlan][1012]secPrivacySeekForBcEntry:(INIT INFO) OpMode:0, NetworkType:0, CheckKeyId:0
+[  213.371824] [wlan][1012]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#0 STAIdx=254 2a:30:**:**:**:68
+[  213.371831] [wlan][1012]nicActivateNetwork:(RSN INFO) [wlan index]=0 OwnMac1=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  213.371841] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[196] SET[1] LEN[76]
+[  213.371846] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[196] to CMD Q
+[  213.371855] [wlan][1012]scanSetRequestChannel:(SCN INFO) channel num(54=>54) 00000000 00000000 00000022 22211111 11111110 00000001 11111110 00007FFE 00000020 00200020 00200020 00200020 00200020 00200020 00200020 00200020
+[  213.371875] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[  213.371900] [wlan][1012]scnSendScanReqV2:(SCN INFO) Include BSSID 00:00:**:**:**:00 in probe request
+[  213.371918] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=32,Ext=22,Seq=4,Ver=1,Dw=0,Min=0,Func=0x2,Mac=00:00:**:**:**:00,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136,Ext Ch: 140 144 149 153 157 161 165 5 21 37 53 69 85 101 117 133 149 165 181 197 213 229
+[  213.371935] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[197] SET[1] LEN[1252]
+[  213.371938] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x03] SEQ[197] to CMD Q
+[  213.398944] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  213.403252] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  213.406277] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  213.466003] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  213.482419] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  213.621934] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (cc:32:**:**:**:9e) valid(1) found(1), band=1
+[  213.624937] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (cc:32:**:**:**:9e) valid(1) found(1), band=1
+[  213.628575] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (cc:32:**:**:**:9e) valid(1) found(1), band=1
+[  213.638626] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  213.674033] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (d2:32:**:**:**:9e) valid(0) found(1), band=1
+[  213.683805] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 4 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  213.781879] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 5 (f4:2d:**:**:**:bf) valid(1) found(1), band=1
+[  213.781901] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,rx:2
+[  213.781905] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,er:0
+[  213.789776] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 5 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  213.806663] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  213.813290] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  213.815730] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  213.818346] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  213.837239] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  213.844365] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  214.025104] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 8 8 8 (2c:70:**:**:**:ab) valid(1) found(1), band=1
+[  214.025127] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  214.025132] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  214.054731] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 9 9 9 (64:2c:**:**:**:e8) valid(1) found(1), band=1
+[  214.069568] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 9 9 9 (64:2c:**:**:**:e8) valid(1) found(1), band=1
+[  214.072508] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 9 9 9 (64:2c:**:**:**:e8) valid(1) found(1), band=1
+[  214.164382] [wlan][1012]scanAddToBssDesc:(SCN ERROR) IE len(522) > Max IE buffer size(512), truncate IE!
+[  214.164399] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  214.164410] [wlan][1012]scanAddToBssDesc:(SCN WARN) IE is truncated!
+[  214.164418] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  214.164422] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  214.166998] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.170104] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.173724] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.177232] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.180621] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.184779] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.188706] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  214.188723] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  214.188727] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  214.191902] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  214.256358] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (ec:75:**:**:**:f7) valid(1) found(1), band=1
+[  214.256381] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,rx:2
+[  214.256386] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,er:0
+[  214.492834] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  214.494091] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  214.494774] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  214.495378] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  214.496068] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  214.496746] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  214.556026] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  214.557776] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  214.603592] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  214.651418] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 44 44 (7a:a4:**:**:**:90) valid(0) found(1), band=2
+[  214.651439] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,rx:0
+[  214.651444] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,er:0
+[  214.665891] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 44 44 (7a:a4:**:**:**:97) valid(1) found(1), band=2
+[  214.665912] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,rx:0
+[  214.665917] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,er:0
+[  214.683042] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  214.684354] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  214.716798] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  214.812191] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  214.812218] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  214.812223] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  214.813574] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  214.813588] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  214.813592] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  214.875338] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  214.875345] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  214.875346] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  214.876774] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  214.876779] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  214.876780] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  214.905478] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  214.905489] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  214.905491] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  214.939157] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  214.939186] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  214.939193] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  214.940623] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  214.940650] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  214.940656] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  214.942442] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  214.942469] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  214.942475] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  214.946480] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 64 64 64 (2e:70:**:**:**:ac) valid(0) found(1), band=2
+[  214.946507] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,rx:2
+[  214.946513] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:,er:0
+[  216.554111] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone348,ucCompleteChanCount[54],ucCurrentState7, u4ScanDurBcnCnt[55],Seq[4]
+[  216.554144] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] 23: 40ee1db2c1c2013354cc322199e68ff114a5d2322199ef42d05abf82a40f29040ee26ea4f8981ba242c700efab642c134e8107c104201c6118fdeec75134f71c6118fddcc322199f7aa40f2907aa40f29768ff114a4f42d05ac0107c104242c700efac2e700efac
+[  216.554154] [wlan][1012]scnEventScanDone:(SCN INFO) Country Code = 00, Detected_Channel_Num = 54
+[  216.554163] [wlan][1012]scnEventScanDone:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    14    36    40    44    48    52    56    60    64   100   104   108   112   116   120   124   128   132   136   140   144   149   153   157   161   165     5    21    37    53    69    85   101   117   133   149   165   181   197   213   229
+[  216.554175] [wlan][1012]scnEventScanDone:(SCN INFO) BAndPCnt :      3     2     0     6     2     6     0     1     3     9     0     0     0     0     6     3     2     3     0     2     3     4     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+[  216.554186] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[  216.554191] [wlan][1012]aisFsmRunEventScanDone:(AIS INFO) ScanDone 4, status(0) native req(4)
+[  216.554202] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:16/23  DIGI-VtGD; DIGI-Gw8V; mira; DDB; DIGIFIBRA-2uGU; TP-Link_3298; LMHOME; DIGI-C92Q; Drie271; DIGI-TarU; DIGI-G5HP; DIGI-d9Ey; DIGI-G5hP_Ext_5G; TP-Link_3298_5G; DDB 5Gsf; DIGIFIBRA-PLUS-2uGU;
+[  216.554293] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] 23: 40ee1db2c1c2013354cc322199e68ff114a5d2322199ef42d05abf82a40f29040ee26ea4f8981ba242c700efab642c134e8107c104201c6118fdeec75134f71c6118fddcc322199f7aa40f2907aa40f29768ff114a4f42d05ac0107c104242c700efac2e700efac
+[  216.554298] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[  216.554304] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[  216.554308] [wlan][1012]aisFsmSteps:(AIS INFO) Reset AIS init flag when change back to IDLE
+[  216.554311] [wlan][1012]nicDeactivateNetwork:(RSN INFO) [wlan index]=0 OwnMac=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  216.554318] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[198] SET[1] LEN[76]
+[  216.554322] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[198] to CMD Q
+[  216.554326] [wlan][1012]secRemoveBssBcEntry:(RSN INFO) remove all the key related with BSS!
+[  216.554329] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[199] SET[1] LEN[68]
+[  216.554331] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x14] SEQ[199] to CMD Q
+[  216.640986] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  218.371078] [wlan][1191]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x4000 [mac]addr=00:00:**:**:**:00 mask=00:00:**:**:**:00 n_ssids=1: n_channels=98: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165 1 5 9 13 17 21 25 29 33 37 41 45 49 53 57 61 65 69 73 77 81 85 89 93 97 101 105 109 113 117 121 125 129 133 137 141 145 149 153 157 161 165 169 173 177 181 185 189 193 197 201 205 209 213 217 221 225 229 233
+[  218.371142] [wlan][1191]mtk_cfg80211_scan:(REQ STATE) i=0, wildcard scan
+[  218.371155] [wlan][1191]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(98==>54) wildcard=0x1 random_mac=00:00:**:**:**:00
+[  218.371277] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[  218.371296] [wlan][1012]secPrivacySeekForBcEntry:(RSN WARN) Always install gtk in same wtbl
+[  218.371301] [wlan][1012]secPrivacySeekForBcEntry:(INIT INFO) OpMode:0, NetworkType:0, CheckKeyId:0
+[  218.371305] [wlan][1012]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#0 STAIdx=254 2a:30:**:**:**:68
+[  218.371313] [wlan][1012]nicActivateNetwork:(RSN INFO) [wlan index]=0 OwnMac1=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  218.371324] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[200] SET[1] LEN[76]
+[  218.371330] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[200] to CMD Q
+[  218.371339] [wlan][1012]scanSetRequestChannel:(SCN INFO) channel num(54=>54) 00000000 00000000 00000022 22211111 11111110 00000001 11111110 00007FFE 00000020 00200020 00200020 00200020 00200020 00200020 00200020 00200020
+[  218.371361] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[  218.371388] [wlan][1012]scnSendScanReqV2:(SCN INFO) Include BSSID 00:00:**:**:**:00 in probe request
+[  218.371405] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=32,Ext=22,Seq=5,Ver=1,Dw=0,Min=0,Func=0x2,Mac=00:00:**:**:**:00,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136,Ext Ch: 140 144 149 153 157 161 165 5 21 37 53 69 85 101 117 133 149 165 181 197 213 229
+[  218.371426] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[201] SET[1] LEN[1252]
+[  218.371430] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x03] SEQ[201] to CMD Q
+[  218.400489] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  218.403065] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  218.405758] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  218.488737] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 2 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  218.591825] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 3 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  218.602525] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 3 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  218.651794] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  218.654475] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (6e:ff:**:**:**:a5) valid(0) found(1), band=1
+[  218.688534] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (d2:32:**:**:**:9e) valid(0) found(1), band=1
+[  218.739666] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 5 (cc:32:**:**:**:9e) valid(1) found(1), band=1
+[  218.795095] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  218.799313] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  218.805327] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  218.809204] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  218.811875] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:91) valid(0) found(1), band=1
+[  218.816760] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  218.854940] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  218.860964] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  218.917024] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 7 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  218.955293] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 7 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  218.962408] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 7 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  219.011115] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 8 8 8 (2c:70:**:**:**:ab) valid(1) found(1), band=1
+[  219.011139] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  219.011144] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  219.041260] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 8 8 8 (2c:70:**:**:**:ab) valid(1) found(1), band=1
+[  219.041281] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  219.041286] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  219.109099] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 9 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.192033] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.197083] [wlan][1012]scanAddToBssDesc:(SCN ERROR) IE len(522) > Max IE buffer size(512), truncate IE!
+[  219.197104] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  219.197114] [wlan][1012]scanAddToBssDesc:(SCN WARN) IE is truncated!
+[  219.197123] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  219.197127] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  219.200731] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.204200] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.208206] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  219.208230] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  219.208236] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  219.211211] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.214768] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.218330] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.266827] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (ec:75:**:**:**:f7) valid(1) found(1), band=1
+[  219.266845] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,rx:2
+[  219.266849] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,er:0
+[  219.295428] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 11 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  219.309012] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 11 11 11 (c0:94:**:**:**:bf) valid(1) found(0), band=1
+[  219.322224] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 11 11 11 (c0:94:**:**:**:bf) valid(1) found(1), band=1
+[  219.534523] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.535883] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.536646] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.537280] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.537489] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.538659] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.594062] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  219.617731] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  219.719292] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  219.720737] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  219.734649] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  219.834115] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 52 52 (d4:ca:**:**:**:cf) valid(0) found(1), band=2
+[  219.849525] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  219.849556] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  219.849563] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  219.850266] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  219.850292] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  219.850300] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  219.912326] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  219.912342] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  219.912345] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  219.913874] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  219.913880] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  219.913882] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  219.922810] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  219.922820] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  219.922822] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  219.976379] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  219.976393] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  219.976395] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  219.977082] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  219.977092] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  219.977095] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  221.601382] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone348,ucCompleteChanCount[54],ucCurrentState7, u4ScanDurBcnCnt[53],Seq[5]
+[  221.601427] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] 22: 40ee1db2c1c201335468ff114a56eff114a5d2322199ecc322199e82a40f29040ee26ea482a40f291f8981ba242c700efab1c6118fde107c10420ec75134f7c094136bf1c6118fddcc322199f68ff114a4d4ca0bacff42d05ac0107c104242c700efac
+[  221.601441] [wlan][1012]scnEventScanDone:(SCN INFO) Country Code = 00, Detected_Channel_Num = 54
+[  221.601450] [wlan][1012]scnEventScanDone:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    14    36    40    44    48    52    56    60    64   100   104   108   112   116   120   124   128   132   136   140   144   149   153   157   161   165     5    21    37    53    69    85   101   117   133   149   165   181   197   213   229
+[  221.601465] [wlan][1012]scnEventScanDone:(SCN INFO) BAndPCnt :      3     1     2     3     1     8     3     2     1     9     3     0     0     0     6     1     0     3     0     2     3     2     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+[  221.601479] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[  221.601486] [wlan][1012]aisFsmRunEventScanDone:(AIS INFO) ScanDone 5, status(0) native req(5)
+[  221.601498] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:14/22  DIGI-VtGD; DIGI-Gw8V; DDB; mira; TP-Link_3298; LMHOME; DIGI-C92Q; Drie271; DIGI-G5HP; DIGI-d9Ey; DIGI_4346bf; DIGI-G5hP_Ext_5G; DDB 5Gsf; DIGIFIBRA-PLUS-2uGU;
+[  221.601649] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] 22: 40ee1db2c1c201335468ff114a56eff114a5d2322199ecc322199e82a40f29040ee26ea482a40f291f8981ba242c700efab1c6118fde107c10420ec75134f7c094136bf1c6118fddcc322199f68ff114a4d4ca0bacff42d05ac0107c104242c700efac
+[  221.601658] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[  221.601671] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[  221.601677] [wlan][1012]aisFsmSteps:(AIS INFO) Reset AIS init flag when change back to IDLE
+[  221.601683] [wlan][1012]nicDeactivateNetwork:(RSN INFO) [wlan index]=0 OwnMac=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  221.601693] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[202] SET[1] LEN[76]
+[  221.601700] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[202] to CMD Q
+[  221.601704] [wlan][1012]secRemoveBssBcEntry:(RSN INFO) remove all the key related with BSS!
+[  221.601709] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[203] SET[1] LEN[68]
+[  221.601713] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x14] SEQ[203] to CMD Q
+[  221.688221] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  225.371003] [wlan][1191]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x4000 [mac]addr=00:00:**:**:**:00 mask=00:00:**:**:**:00 n_ssids=1: n_channels=98: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165 1 5 9 13 17 21 25 29 33 37 41 45 49 53 57 61 65 69 73 77 81 85 89 93 97 101 105 109 113 117 121 125 129 133 137 141 145 149 153 157 161 165 169 173 177 181 185 189 193 197 201 205 209 213 217 221 225 229 233
+[  225.371044] [wlan][1191]mtk_cfg80211_scan:(REQ STATE) i=0, wildcard scan
+[  225.371059] [wlan][1191]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(98==>54) wildcard=0x1 random_mac=00:00:**:**:**:00
+[  225.371143] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[  225.371160] [wlan][1012]secPrivacySeekForBcEntry:(RSN WARN) Always install gtk in same wtbl
+[  225.371166] [wlan][1012]secPrivacySeekForBcEntry:(INIT INFO) OpMode:0, NetworkType:0, CheckKeyId:0
+[  225.371172] [wlan][1012]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#0 STAIdx=254 2a:30:**:**:**:68
+[  225.371181] [wlan][1012]nicActivateNetwork:(RSN INFO) [wlan index]=0 OwnMac1=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  225.371194] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[204] SET[1] LEN[76]
+[  225.371201] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[204] to CMD Q
+[  225.371212] [wlan][1012]scanSetRequestChannel:(SCN INFO) channel num(54=>54) 00000000 00000000 00000022 22211111 11111110 00000001 11111110 00007FFE 00000020 00200020 00200020 00200020 00200020 00200020 00200020 00200020
+[  225.371236] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[  225.371254] [wlan][1012]scnSendScanReqV2:(SCN INFO) Include BSSID 00:00:**:**:**:00 in probe request
+[  225.371290] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=32,Ext=22,Seq=6,Ver=1,Dw=0,Min=0,Func=0x2,Mac=00:00:**:**:**:00,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136,Ext Ch: 140 144 149 153 157 161 165 5 21 37 53 69 85 101 117 133 149 165 181 197 213 229
+[  225.371313] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[205] SET[1] LEN[1252]
+[  225.371320] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x03] SEQ[205] to CMD Q
+[  225.398508] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  225.400858] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  225.405224] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  225.408236] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (1c:20:**:**:**:54) valid(1) found(1), band=1
+[  225.410689] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  225.422805] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  225.502430] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  225.571605] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 3 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  225.612155] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 3 (6e:ff:**:**:**:a5) valid(0) found(1), band=1
+[  225.663529] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 4 4 4 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  225.742585] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 4 4 5 (68:ff:**:**:**:a5) valid(1) found(1), band=1
+[  225.762563] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 5 (f4:2d:**:**:**:bf) valid(1) found(1), band=1
+[  225.762574] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,rx:2
+[  225.762576] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,er:0
+[  225.816583] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  225.820569] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  225.822917] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (40:ee:**:**:**:a4) valid(1) found(1), band=1
+[  225.828319] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  225.864997] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f4:2d:**:**:**:bf) valid(1) found(1), band=1
+[  225.865008] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,rx:2
+[  225.865009] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-2uGU,er:0
+[  225.872780] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:90) valid(1) found(1), band=1
+[  225.875469] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (82:a4:**:**:**:91) valid(0) found(1), band=1
+[  225.882629] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 6 6 6 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  225.931741] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 7 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  225.934253] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 6 6 7 (f8:98:**:**:**:24) valid(1) found(1), band=1
+[  226.173043] [wlan][1012]scanAddToBssDesc:(SCN ERROR) IE len(522) > Max IE buffer size(512), truncate IE!
+[  226.173052] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (10:7c:**:**:**:20) valid(1) found(1), band=1
+[  226.173054] [wlan][1012]scanAddToBssDesc:(SCN WARN) IE is truncated!
+[  226.173057] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  226.173058] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  226.176580] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.180036] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.183531] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.186990] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.190487] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.194017] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.229893] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (ec:75:**:**:**:f7) valid(1) found(1), band=1
+[  226.229903] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,rx:2
+[  226.229905] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-d9Ey,er:0
+[  226.240149] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 9 9 10 (64:2c:**:**:**:e8) valid(1) found(1), band=1
+[  226.243813] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 10 10 10 (1c:61:**:**:**:de) valid(1) found(1), band=1
+[  226.289656] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 11 11 11 (34:6a:**:**:**:9c) valid(1) found(0), band=1
+[  226.493208] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  226.494562] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  226.495271] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  226.496051] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  226.496771] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  226.497432] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 36 36 36 (1c:61:**:**:**:dd) valid(1) found(1), band=2
+[  226.556052] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 40 40 40 (cc:32:**:**:**:9f) valid(1) found(1), band=2
+[  226.632484] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 44 44 (7a:a4:**:**:**:97) valid(1) found(1), band=2
+[  226.632492] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,rx:0
+[  226.632493] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,er:0
+[  226.646722] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 44 44 (7a:a4:**:**:**:97) valid(1) found(1), band=2
+[  226.646728] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,rx:0
+[  226.646729] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:TP-Link_3298_5G,er:0
+[  226.681922] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  226.683446] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  226.697535] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 48 48 48 (68:ff:**:**:**:a4) valid(1) found(1), band=2
+[  226.812161] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 56 56 56 (f4:2d:**:**:**:c0) valid(1) found(1), band=2
+[  226.812175] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,rx:2
+[  226.812178] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGIFIBRA-PLUS-2uGU,er:0
+[  226.875975] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  226.876000] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  226.876005] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  226.877408] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  226.877459] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  226.877465] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  226.886253] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 0 60 60 (10:7c:**:**:**:24) valid(1) found(1), band=2
+[  226.886281] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,rx:0
+[  226.886287] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:DIGI-G5HP,er:1
+[  226.939189] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  226.939197] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  226.939198] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  226.939963] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 64 64 64 (2c:70:**:**:**:ac) valid(1) found(1), band=2
+[  226.939971] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,rx:2
+[  226.939972] [wlan][1012]scanAddToBssDesc:(SCN INFO) ER: SSID:Drie271,er:0
+[  228.555772] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone348,ucCompleteChanCount[54],ucCurrentState7, u4ScanDurBcnCnt[50],Seq[6]
+[  228.555789] [wlan][1012]SCANLOG:(SCN INFO) [SCN:500:F2D] 22: 40ee1db2c487b113941c201335468ff114a56eff114a5f42d05abf82a40f29040ee26ea4f8981ba2482a40f291107c104201c6118fdeec75134f7642c134e8346a28a9c1c6118fddcc322199f7aa40f29768ff114a4f42d05ac0107c104242c700efac
+[  228.555794] [wlan][1012]scnEventScanDone:(SCN INFO) Country Code = 00, Detected_Channel_Num = 54
+[  228.555797] [wlan][1012]scnEventScanDone:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    14    36    40    44    48    52    56    60    64   100   104   108   112   116   120   124   128   132   136   140   144   149   153   157   161   165     5    21    37    53    69    85   101   117   133   149   165   181   197   213   229
+[  228.555803] [wlan][1012]scnEventScanDone:(SCN INFO) BAndPCnt :      6     1     2     1     2     7     2     0     0    10     1     0     0     0     6     1     2     3     0     1     3     2     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+[  228.555808] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[  228.555810] [wlan][1012]aisFsmRunEventScanDone:(AIS INFO) ScanDone 6, status(0) native req(6)
+[  228.555816] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:18/22  DIGI-VtGD; alinam; DIGI-Gw8V; DDB; DIGIFIBRA-2uGU; TP-Link_3298; LMHOME; DIGI-C92Q; DIGI-G5HP; DIGI-d9Ey; DIGI-TarU; DIGI-18; DIGI-G5hP_Ext_5G; mira; TP-Link_3298_5G; DDB 5Gsf; DIGIFIBRA-PLUS-2uGU; Drie271;
+[  228.555862] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] 22: 40ee1db2c487b113941c201335468ff114a56eff114a5f42d05abf82a40f29040ee26ea4f8981ba2482a40f291107c104201c6118fdeec75134f7642c134e8346a28a9c1c6118fddcc322199f7aa40f29768ff114a4f42d05ac0107c104242c700efac
+[  228.555864] [wlan][1012]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[  228.555867] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[  228.555869] [wlan][1012]aisFsmSteps:(AIS INFO) Reset AIS init flag when change back to IDLE
+[  228.555870] [wlan][1012]nicDeactivateNetwork:(RSN INFO) [wlan index]=0 OwnMac=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  228.555873] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[206] SET[1] LEN[76]
+[  228.555875] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[206] to CMD Q
+[  228.555876] [wlan][1012]secRemoveBssBcEntry:(RSN INFO) remove all the key related with BSS!
+[  228.555878] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[207] SET[1] LEN[68]
+[  228.555879] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x14] SEQ[207] to CMD Q
+[  228.642625] [wlan][1012]qmHandleEventBssAbsencePresence:(QM INFO) NAF=0,0,0
+[  235.377478] [wlan][1191]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x4000 [mac]addr=00:00:**:**:**:00 mask=00:00:**:**:**:00 n_ssids=1: n_channels=98: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165 1 5 9 13 17 21 25 29 33 37 41 45 49 53 57 61 65 69 73 77 81 85 89 93 97 101 105 109 113 117 121 125 129 133 137 141 145 149 153 157 161 165 169 173 177 181 185 189 193 197 201 205 209 213 217 221 225 229 233
+[  235.377507] [wlan][1191]mtk_cfg80211_scan:(REQ STATE) i=0, wildcard scan
+[  235.377519] [wlan][1191]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(98==>54) wildcard=0x1 random_mac=00:00:**:**:**:00
+[  235.377559] [wlan][1012]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[  235.377570] [wlan][1012]secPrivacySeekForBcEntry:(RSN WARN) Always install gtk in same wtbl
+[  235.377574] [wlan][1012]secPrivacySeekForBcEntry:(INIT INFO) OpMode:0, NetworkType:0, CheckKeyId:0
+[  235.377578] [wlan][1012]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#0 STAIdx=254 2a:30:**:**:**:68
+[  235.377586] [wlan][1012]nicActivateNetwork:(RSN INFO) [wlan index]=0 OwnMac1=2a:30:**:**:**:68 BSSID=10:7c:**:**:**:24 BMCIndex = 0 NetType=0
+[  235.377596] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[208] SET[1] LEN[76]
+[  235.377603] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x11] SEQ[208] to CMD Q
+[  235.377612] [wlan][1012]scanSetRequestChannel:(SCN INFO) channel num(54=>54) 00000000 00000000 00000022 22211111 11111110 00000001 11111110 00007FFE 00000020 00200020 00200020 00200020 00200020 00200020 00200020 00200020
+[  235.377634] [wlan][1012]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[  235.377650] [wlan][1012]scnSendScanReqV2:(SCN INFO) Include BSSID 00:00:**:**:**:00 in probe request
+[  235.377676] [wlan][1012]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=32,Ext=22,Seq=7,Ver=1,Dw=0,Min=0,Func=0x2,Mac=00:00:**:**:**:00,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136,Ext Ch: 140 144 149 153 157 161 165 5 21 37 53 69 85 101 117 133 149 165 181 197 213 229
+[  235.377698] [wlan][1012]asicConnac2xFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[209] SET[1] LEN[1252]
+[  235.377705] [wlan][1012]kalEnqueueCommand:(INIT INFO) EN-Q CMD TYPE[1] ID[0x03] SEQ[209] to CMD Q
+[  235.407001] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  235.415660] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 1 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  235.442295] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (48:7b:**:**:**:94) valid(1) found(1), band=1
+[  235.457828] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 8 in chnl 1 1 1 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  235.502958] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (40:ee:**:**:**:2c) valid(1) found(1), band=1
+[  235.510373] [wlan][1012]scanAddToBssDesc:(SCN INFO) Receive type 5 in chnl 1 1 2 (48:7b:**:**:**:94) valid(1) found(1), band=1

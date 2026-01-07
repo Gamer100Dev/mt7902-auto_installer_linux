@@ -1,0 +1,1 @@
+clang++ -Wl,--dependency-file=CMakeFiles/MT7902_Driver.dir/link.d CMakeFiles/MT7902_Driver.dir/src/main.cpp.o -o MT7902_Driver

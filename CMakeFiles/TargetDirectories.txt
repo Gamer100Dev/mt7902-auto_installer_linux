@@ -1,0 +1,3 @@
+/home/gamer/mt7902-auto_installer_linux/CMakeFiles/MT7902_Driver.dir
+/home/gamer/mt7902-auto_installer_linux/CMakeFiles/edit_cache.dir
+/home/gamer/mt7902-auto_installer_linux/CMakeFiles/rebuild_cache.dir

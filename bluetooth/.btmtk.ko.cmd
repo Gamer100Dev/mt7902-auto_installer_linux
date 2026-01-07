@@ -1,0 +1,1 @@
+savedcmd_btmtk.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /usr/lib/modules/6.18.3-zen1-1-zen/build/scripts/module.lds -o btmtk.ko btmtk.o btmtk.mod.o .module-common.o
